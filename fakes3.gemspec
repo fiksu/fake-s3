@@ -2,7 +2,7 @@
 require File.join(File.dirname(__FILE__), 'lib', 'fakes3', 'version')
 
 Gem::Specification.new do |s|
-  s.name        = "fakes3"
+  s.name        = "fakes3-fiksu"
   s.version     = FakeS3::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Curtis Spencer"]
